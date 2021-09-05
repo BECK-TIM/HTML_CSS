@@ -140,7 +140,7 @@ body {
 #side .box {
 	margin: 0 auto 30px auto;
 	padding: 0 0 20px 0;
-	background: url(C:/Users/Tooya_0130/OneDrive/デスクトップ/image/side_box.png) bottom no-repeat;
+	background: url(images/side_box.png) bottom no-repeat;
 }
 #side .box h2 {
 	margin: 0;
@@ -150,7 +150,7 @@ body {
 	font-size: 20px;
 	line-height: 122px;
 	font-weight: normal;
-	background: url(C:/Users/Tooya_0130/OneDrive/デスクトップ/image/side_box_h2.png) center no-repeat;
+	background: url(images/side_box_h2.png) center no-repeat;
 }
 #side .box .boxBody {
 	padding: 8px;
