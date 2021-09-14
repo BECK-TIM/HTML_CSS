@@ -140,7 +140,7 @@ body {
 #side .box {
 	margin: 0 auto 30px auto;
 	padding: 0 0 20px 0;
-	background: url(https://github.com/BECK-TIM/HTML_CSS-3/blob/main/side_box.png?raw=true) bottom no-repeat;
+	background: url(images/side_box.png) bottom no-repeat;
 }
 #side .box h2 {
 	margin: 0;
@@ -150,7 +150,7 @@ body {
 	font-size: 20px;
 	line-height: 122px;
 	font-weight: normal;
-	background: url(https://github.com/BECK-TIM/HTML_CSS-3/blob/main/side_box_h2.png?raw=true) center no-repeat;
+	background: url(images/side_box_h2.png) center no-repeat;
 }
 #side .box .boxBody {
 	padding: 8px;
